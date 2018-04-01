@@ -1,0 +1,9 @@
+argv = ['./waf', 'configure']
+config_cmd = 'configure'
+environ = {'TERM_SESSION_ID': 'w0t0p1:463782E9-E018-40C5-AEB6-52373D0FBD77', 'XPC_SERVICE_NAME': '0', 'VERSIONER_PYTHON_PREFER_32_BIT': 'no', 'LC_CTYPE': 'UTF-8', 'TERM_PROGRAM_VERSION': '3.0.15', 'SSH_AUTH_SOCK': '/private/tmp/com.apple.launchd.jtKxxBXNqp/Listeners', 'SHELL': '/bin/bash', 'LOGNAME': 'danhil', 'USER': 'danhil', 'HOME': '/Users/danhil', 'ITERM_PROFILE': 'Default', 'PATH': '/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin', 'DISPLAY': '/private/tmp/com.apple.launchd.yRR2ttXZnh/org.macosforge.xquartz:0', 'TMPDIR': '/var/folders/lk/7tfxh6lx5llb212r2j7r2lrc0000gn/T/', 'TERM_PROGRAM': 'iTerm.app', 'TERM': 'vt100', 'Apple_PubSub_Socket_Render': '/private/tmp/com.apple.launchd.lUTBKignLk/Render', 'COLORFGBG': '7;0', 'VERSIONER_PYTHON_VERSION': '2.7', 'SHLVL': '1', 'OLDPWD': '/Users/danhil/Development', 'PWD': '/Users/danhil/Development/asm', 'XPC_FLAGS': '0x0', '__CF_USER_TEXT_ENCODING': '0x1F5:0x0:0x0', 'ITERM_SESSION_ID': 'w0t0p1:463782E9-E018-40C5-AEB6-52373D0FBD77', '_': './waf'}
+files = ['/Users/danhil/Development/asm/wscript']
+hash = ',\xde~\x03\xa2\xd1>\xd5\xb3\x19\xed\xeaU\x1d\xc2\r'
+options = {'profile': 0, 'files': '', 'force': False, 'verbose': 0, 'no_lock_in_run': '', 'no_lock_in_out': '', 'whelp': 0, 'destdir': '', 'zones': '', 'colors': 'auto', 'pdb': 0, 'jobs': 4, 'targets': '', 'out': '', 'progress_bar': 0, 'top': '', 'libdir': None, 'prefix': '/usr/local', 'keep': 0, 'check_cxx_compiler': None, 'distcheck_args': None, 'bindir': None, 'no_lock_in_top': ''}
+out_dir = '/Users/danhil/Development/asm/build'
+run_dir = '/Users/danhil/Development/asm'
+top_dir = '/Users/danhil/Development/asm'
